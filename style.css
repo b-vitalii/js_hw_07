@@ -1,0 +1,30 @@
+body {
+    background-color: brown;
+}
+.myTitle{
+    color: darkblue;
+    font-style: italic;
+}
+.btnEasy{
+    background-color: green;
+    font-size: 20px;
+}
+.btnHard{
+    background-color: red;
+    font-size: 20px;
+    
+}
+#validation-input {
+    border: 3px solid #bdbdbd;
+  }
+  #validation-input.valid {
+    border-color: #4caf50;
+  }
+  #validation-input.invalid {
+    border-color: #f44336;
+  }
+  .image {
+      width: 20rem;
+      border-radius: 3rem;
+      height: 10rem;
+  }
